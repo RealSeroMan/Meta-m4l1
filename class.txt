@@ -11,3 +11,4 @@ Fuchsia
 Purple
 Red
 Brown
+Maroon
